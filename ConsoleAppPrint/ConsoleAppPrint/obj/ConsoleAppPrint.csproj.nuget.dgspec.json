@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nick\\source\\repos\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj": {}
+    "C:\\gitConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nick\\source\\repos\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj": {
+    "C:\\gitConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nick\\source\\repos\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj",
+        "projectUniqueName": "C:\\gitConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj",
         "projectName": "ConsoleAppPrint",
-        "projectPath": "C:\\Users\\nick\\source\\repos\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj",
+        "projectPath": "C:\\gitConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint.csproj",
         "packagesPath": "C:\\Users\\nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nick\\source\\repos\\ConsoleAppPrint\\ConsoleAppPrint\\obj\\",
+        "outputPath": "C:\\gitConsoleAppPrint\\ConsoleAppPrint\\ConsoleAppPrint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
